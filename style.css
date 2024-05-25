@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.content{
+   
+      text-align: center;
+      margin-top: 9rem;
+}
+.content h1{
+    font-size: 5rem;
+}
+.content p{
+    font-size: 2rem;
+
+}
+.content button{
+    width: 7rem;
+    height: 3rem;
+    background-color: blue;
+    color: white;
+}
+.content button:hover{
+    background-color: green;
+}
